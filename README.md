@@ -1,5 +1,7 @@
 # :eyes: Vue 源码分析
 
+项目拷贝自 [Vue.js](https://github.com/vuejs/vue)
+
 ### 灵感来源：[underscore-analysis](https://github.com/lessfish/underscore-analysis)
 
 ## **前言**：
